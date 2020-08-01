@@ -9,3 +9,6 @@ Presently, I am an active contributor to the [Moving Blocks](https://github.com/
 - [Google Code-In](https://codein.withgoogle.com/) finalist 2017
 - Coaching both young students from [Google Code-In](https://codein.withgoogle.com/) and older students in [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - Proactive contributor to open source projects Terasology and Destination Sol since 2016
+
+#### See my resume:
+My CV is available [here](https://github.com/NicholasBatesNZ/NicholasBatesNZ/blob/master/Nicholas%20Bates%20CV.pdf).
