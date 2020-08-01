@@ -11,4 +11,4 @@ Presently, I am an active contributor to the [Moving Blocks](https://github.com/
 - Proactive contributor to open source projects Terasology and Destination Sol since 2016
 
 #### See my resume:
-My CV is available [here](https://github.com/NicholasBatesNZ/NicholasBatesNZ/blob/master/Nicholas%20Bates%20CV.pdf).
+My CV is available [here](https://raw.githubusercontent.com/NicholasBatesNZ/NicholasBatesNZ/master/Nicholas%20Bates%20CV.pdf).
